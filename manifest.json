@@ -1,0 +1,21 @@
+{
+    "name": "The matrix",
+    "short_name": "matrix",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#00ff00",
+    "theme_color": "#00ff00",
+    "icons": [
+      {
+        "src": "neo.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      },
+      {
+        "src": "neo.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  

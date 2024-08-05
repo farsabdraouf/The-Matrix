@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+    color: lime;
+    font-family: "Courier New", monospace;
+    line-height: 1;
+    overflow: hidden;
+    margin: 0;
+}
+
+#matrix-container {
+    white-space: pre;
+}
